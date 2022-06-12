@@ -1,10 +1,7 @@
 hello git ! hello cai
-123456728
-323445566
-33445566
 hello git ! hello cai
 hello git ! hello cai
 hello git ! hello cai
 hello git ! hello cai
 hello git ! hello cai
-hello git ! hello cai
+hello git ! hello cai hot-fix test
