@@ -5,3 +5,4 @@ hello git ! hello cai
 hello git ! hello cai
 hello git ! hello cai
 hello git ! hello cai master branch
+hello git ! hello cai hot-fix test
